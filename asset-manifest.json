@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Text-modifier/static/css/main.8c9c472a.chunk.css",
+    "main.js": "/Text-modifier/static/js/main.c2e1d8a9.chunk.js",
+    "main.js.map": "/Text-modifier/static/js/main.c2e1d8a9.chunk.js.map",
+    "runtime-main.js": "/Text-modifier/static/js/runtime-main.9975a746.js",
+    "runtime-main.js.map": "/Text-modifier/static/js/runtime-main.9975a746.js.map",
+    "static/js/2.f8a3d5ae.chunk.js": "/Text-modifier/static/js/2.f8a3d5ae.chunk.js",
+    "static/js/2.f8a3d5ae.chunk.js.map": "/Text-modifier/static/js/2.f8a3d5ae.chunk.js.map",
+    "static/js/3.f00e9902.chunk.js": "/Text-modifier/static/js/3.f00e9902.chunk.js",
+    "static/js/3.f00e9902.chunk.js.map": "/Text-modifier/static/js/3.f00e9902.chunk.js.map",
+    "index.html": "/Text-modifier/index.html",
+    "precache-manifest.a2344fc22c9cd9303b19847ae044c53b.js": "/Text-modifier/precache-manifest.a2344fc22c9cd9303b19847ae044c53b.js",
+    "service-worker.js": "/Text-modifier/service-worker.js",
+    "static/css/main.8c9c472a.chunk.css.map": "/Text-modifier/static/css/main.8c9c472a.chunk.css.map",
+    "static/js/2.f8a3d5ae.chunk.js.LICENSE.txt": "/Text-modifier/static/js/2.f8a3d5ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9975a746.js",
+    "static/js/2.f8a3d5ae.chunk.js",
+    "static/css/main.8c9c472a.chunk.css",
+    "static/js/main.c2e1d8a9.chunk.js"
+  ]
+}
